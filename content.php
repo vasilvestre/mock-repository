@@ -9,5 +9,4 @@
         echo "ecryc";
         echo "dxygo";
         echo "orpcu";
-        echo "uxtbo";
 ?>
