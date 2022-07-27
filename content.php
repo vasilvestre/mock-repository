@@ -33,5 +33,4 @@
         echo "dednm";
         echo "fxhfd";
         echo "dnbai";
-        echo "pnnui";
 ?>
