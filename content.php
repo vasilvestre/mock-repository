@@ -15,5 +15,4 @@
         echo "tvvpj";
         echo "ofuly";
         echo "rkawu";
-        echo "gjgma";
 ?>
