@@ -53,5 +53,4 @@
         echo "gywmj";
         echo "osqvb";
         echo "mqqpd";
-        echo "qjtjb";
 ?>
