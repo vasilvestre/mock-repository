@@ -43,4 +43,5 @@
         echo "dxmln";
         echo "hapqk";
         echo "nranh";
+        echo "cmmqs";
 ?>
