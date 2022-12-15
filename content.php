@@ -20,5 +20,4 @@
         echo "wbgvd";
         echo "solnm";
         echo "idydl";
-        echo "huqbu";
 ?>
