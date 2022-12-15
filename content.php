@@ -3,5 +3,4 @@
         echo "vldla";
         echo "umgyn";
         echo "rpjut";
-        echo "sojky";
 ?>
