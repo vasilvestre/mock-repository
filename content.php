@@ -26,5 +26,4 @@
         echo "xowht";
         echo "pgfst";
         echo "olgqi";
-        echo "ywwkp";
 ?>
