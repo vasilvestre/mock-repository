@@ -45,5 +45,4 @@
         echo "nranh";
         echo "ldtrq";
         echo "kcvld";
-        echo "cpabi";
 ?>
