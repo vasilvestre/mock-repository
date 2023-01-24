@@ -80,4 +80,5 @@
         echo "jfics";
         echo "hodmp";
         echo "shrip";
+        echo "aufso";
 ?>
