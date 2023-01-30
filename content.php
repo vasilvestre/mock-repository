@@ -46,5 +46,4 @@
         echo "ldtrq";
         echo "nsigg";
         echo "ukjsg";
-        echo "idvfr";
 ?>
