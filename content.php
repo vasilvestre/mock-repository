@@ -28,5 +28,4 @@
         echo "lbqss";
         echo "tjfms";
         echo "xdifm";
-        echo "srppp";
 ?>
