@@ -21,5 +21,4 @@
         echo "solnm";
         echo "tvdsa";
         echo "hjquq";
-        echo "ocxxq";
 ?>
