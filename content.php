@@ -24,5 +24,4 @@
         echo "coxdl";
         echo "bdfik";
         echo "xowht";
-        echo "blojj";
 ?>
