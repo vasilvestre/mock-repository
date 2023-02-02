@@ -27,5 +27,4 @@
         echo "pgfst";
         echo "lbqss";
         echo "tjfms";
-        echo "rdyhb";
 ?>
