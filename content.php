@@ -3,5 +3,4 @@
         echo "vldla";
         echo "rrqfb";
         echo "ucxtl";
-        echo "sclix";
 ?>
