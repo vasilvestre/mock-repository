@@ -46,5 +46,4 @@
         echo "ldtrq";
         echo "jutva";
         echo "qijyb";
-        echo "lfbsq";
 ?>
