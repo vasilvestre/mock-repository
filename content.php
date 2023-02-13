@@ -26,5 +26,4 @@
         echo "xowht";
         echo "kcoua";
         echo "mmufq";
-        echo "wlbah";
 ?>
