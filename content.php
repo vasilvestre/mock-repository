@@ -5,5 +5,4 @@
         echo "uyeid";
         echo "tdgue";
         echo "leski";
-        echo "mmvfd";
 ?>
