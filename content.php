@@ -25,5 +25,4 @@
         echo "bdfik";
         echo "xowht";
         echo "kcoua";
-        echo "ukdfj";
 ?>
