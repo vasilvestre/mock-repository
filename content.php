@@ -45,5 +45,4 @@
         echo "nranh";
         echo "ldtrq";
         echo "jutva";
-        echo "fnrku";
 ?>
