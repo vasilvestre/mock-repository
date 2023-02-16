@@ -1,0 +1,19 @@
+copy https://github.com/miromannino/contributions-importer-for-github
+```bash
+git clone https://github.com/miromannino/contributions-importer-for-github
+touch import.py
+```
+
+import.py content
+```python
+import git
+from git_contributions_importer import *
+
+repo = git.Repo("REPOSITORY TO IMPORT")
+mock_repo = git.Repo("PATH_TO_THIS_MOCK")
+
+importer = Importer([repo], mock_repo)
+importer.set_author(MY EMAIL)
+
+importer.import_repository()
+```
