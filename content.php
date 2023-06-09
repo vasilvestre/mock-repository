@@ -43,5 +43,5 @@
         echo "dxmln";
         echo "hapqk";
         echo "nranh";
-        echo "vtacg";
+        echo "lvkcc";
 ?>
