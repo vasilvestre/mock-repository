@@ -99,5 +99,4 @@
         echo "ojwjj";
         echo "lqnnc";
         echo "tuyvy";
-        echo "omuus";
 ?>
